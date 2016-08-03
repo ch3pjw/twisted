@@ -167,7 +167,7 @@ Further Reading
 
 
     
-An example push producer application can be found in ``doc/examples/streaming.py`` .
+An example push producer application can be found in ``docs/core/examples/streaming.py`` .
 
     
 
